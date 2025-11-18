@@ -1,0 +1,7 @@
+C:\Users\efeak\source\repos\DFSProjesi\DFSProjesi\bin\Debug\DFSProjesi.exe.config
+C:\Users\efeak\source\repos\DFSProjesi\DFSProjesi\bin\Debug\DFSProjesi.exe
+C:\Users\efeak\source\repos\DFSProjesi\DFSProjesi\bin\Debug\DFSProjesi.pdb
+C:\Users\efeak\source\repos\DFSProjesi\DFSProjesi\obj\Debug\DFSProjesi.csproj.AssemblyReference.cache
+C:\Users\efeak\source\repos\DFSProjesi\DFSProjesi\obj\Debug\DFSProjesi.csproj.CoreCompileInputs.cache
+C:\Users\efeak\source\repos\DFSProjesi\DFSProjesi\obj\Debug\DFSProjesi.exe
+C:\Users\efeak\source\repos\DFSProjesi\DFSProjesi\obj\Debug\DFSProjesi.pdb
